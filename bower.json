@@ -1,0 +1,23 @@
+{
+  "name": "ElasticQueryBuilder",
+  "homepage": "https://github.com/oscar09/ElasticQueryBuilder",
+  "authors": [
+    "Oscar <el_oscar09@yahoo.com>"
+  ],
+  "description": "Builds JSON queries for elastic search",
+  "main": "source/ElasticQueryBuilder.js",
+  "keywords": [
+    "elastic",
+    "elasticsearch",
+    "search"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
